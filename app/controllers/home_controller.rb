@@ -1,7 +1,7 @@
 class HomeController < ApplicationController
     def index
         
-        @something ="하이"ㅎ
+        @something ="하이"
     end
     
 end
